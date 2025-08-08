@@ -7,8 +7,8 @@ Semantic segmentation of aerial imagery allows for precise land cover classifica
 ## Key Technologies
 * Fastai: Deep learning framework that streamlines data preprocessing, model creation, and training workflows.
 * PyTorch: Core deep learning library providing computational backbone for model training.
-* U-Net Architecture: Encoder-decoder convolutional neural network designed for pixel-wise image segmentation, effective for high-resolution predictions.
-* Resnet34:  Pretrained convolutional neural network used as the encoder in U-Net for feature extraction.
+* U-Net Architecture: Encoder-decoder convolutional neural network designed for pixel-wise image segmentation.
+* Resnet34: Pretrained convolutional neural network used as the encoder in U-Net for feature extraction.
 
 ## Approach
 * [Dataset](https://www.tugraz.at/index.php?id=22387): contains 400 publicly available aerial images and their corresponding segmentation masks.
